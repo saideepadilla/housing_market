@@ -42,9 +42,9 @@ The application analyzes data from 3 csv files.
 
 
 
-### Avg Sale Price (per SqFt) and Gross Rent
+### Avg Sale Price (per SqFt) and Gross Rent 
 
-![prices2](./Images/grossrent_sqft.png)
+![grossrent_sqft_price](./Images/grossrent_sqft_price.png)
 
 
 
